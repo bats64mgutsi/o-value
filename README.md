@@ -1,6 +1,6 @@
 # o-value
 
-O-value is a reactive statement management solution for React apps that allows for granular control over which parts of your UI depend on which part of your viewmodels.
+O-value is a reactive state management solution for React apps that allows for granular control over which parts of your UI depend on which part of your viewmodels.
 
 ## Installing o-value
 
